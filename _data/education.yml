@@ -1,10 +1,12 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
+  name: University of Edinburgh
+  dates: 2013 -2017
   qualification: BSc Computer Science
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Machine Learning & Programming Language Theory
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    My time in Edinburgh was filled with a number of curricular and extra-curricular activities. Within the University I learned about machine-learning and data-science, building scalable systems and Programming language theory. I attended a number of events focussing on programming language theory and wrote my thesis based on a tool to automatically extract type information from JavaScript.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Additionally I was (and still am) a member of a group of SysAdmins running & maintainig a set of physical servers located on-campus. The project runs a diverse array of different services (GitLab, LDAP, IRC Server, Mail Server as well as any long-running projects that students may want to run in a less regulated environment).
+
+    During University I also worked within the field as an intern, both over Summer and part-time during Semesters.

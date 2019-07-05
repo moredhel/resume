@@ -1,8 +1,20 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: NixPkgs
+  link: github.com/moredhel/nur-packages
+  github: nixos/nixpkgs
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Declarative Operating System
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I run nixpkgs on my chromebook (within Crostini), as well as on all my servers/linux laptops.
+    It is a declarative approach to defining package-sets and configuration for a system,
+    whether that be a set of interacting applications or a full-blown operating-system.
+    I have started putting together a set of packages for running within Chromebook's Crostini environment.
+
+- layout: top-middle
+  name: Trow
+  link: trow.io
+  github: ContainerSolutions/trow
+  quote: >
+    Image Management for Kubernetes Clusters
+  description: | # this will include new lines to allow paragraphs
+    I was involved in the early alpha-stages of this project. Beginning with setting the base setup for a container registry in Rust.

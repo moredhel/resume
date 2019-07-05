@@ -24,10 +24,9 @@ linkedin_username: hamish-hutchings-77466149
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  TODO: fill me in later
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I'm a lead cloud native engineer. Normally this means leading a team of engineers with a focus on cloud-technologies, I work both technically as well as interacting with the customer and ensuring we are building a solution that they need. When I'm not doing that I'm working on Pre-Sales, running trainings or working on internal projects to improve openness and satisfaction within the company.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Kubernetes & Docker</mark>, <mark>Python</mark> & <mark>Technical to non-Technical translation</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,15 +40,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  TODO: fill in later
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in programming languages and software engineering some of my other interests and hobbies include:
    - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Paragliding
+   - Reading
+   - Boardgames
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
