@@ -17,4 +17,5 @@
   quote: >
     Image Management for Kubernetes Clusters
   description: | # this will include new lines to allow paragraphs
-    I was involved in the early alpha-stages of this project. Beginning with setting the base setup for a container registry in Rust.
+    I was involved in the early alpha-stages of this project.
+    Beginning with setting the base setup for a container registry in Rust.
