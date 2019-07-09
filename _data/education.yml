@@ -7,6 +7,11 @@
   description: | # this will include new lines to allow paragraphs
     My time in Edinburgh was filled with a number of curricular and extra-curricular activities. Within the University I learned about machine-learning and data-science, building scalable systems and Programming language theory. I attended a number of events focussing on programming language theory and wrote my thesis based on a tool to automatically extract type information from JavaScript.
 
-    Additionally I was (and still am) a member of a group of SysAdmins running & maintainig a set of physical servers located on-campus. The project runs a diverse array of different services (GitLab, LDAP, IRC Server, Mail Server as well as any long-running projects that students may want to run in a less regulated environment).
+    Additionally I was (and still am) a member of a group of SysAdmins running & maintaining a set of physical servers located on-campus. The project runs a diverse array of different services (GitLab, LDAP, IRC Server, Mail Server as well as any long-running projects that students may want to run in a less regulated/more experimental environment).
 
+    During University I also worked within the field as an intern, both over summer and part-time during semesters.
+
+  My academic focus at Edinburgh centered around machine-learning, data-science, building scalable systems and programming language theory. Through my thesis I developed a tool to automatically extract runtime type information from JavaScript and generate Typescript definition files. I came to this topic through one of my professors who's research this was inspired by ([blame calculus](https://homepages.inf.ed.ac.uk/wadler/topics/blame.html)).
+
+    Outside of academia, I was (and still am) a member of a group of SysAdmins running & maintaining (<THIS WORD IS A TYPO ON CV) a set of physical servers located on-campus. The project runs a diverse array of different services (GitLab, LDAP, IRC Server, Mail Server as well as any long-running projects that students may want to run in a less regulated/more experimental? environment).
     During University I also worked within the field as an intern, both over Summer and part-time during Semesters.
