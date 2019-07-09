@@ -41,10 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in programming languages and software engineering some of my other interests and hobbies include:
-   - Rock climbing
-   - Paragliding
-   - Reading
-   - Boardgames
+   - Rock climbing 🧗
+   - Paragliding 🛩️
+   - Reading 📖
+   - Boardgames ♜
 
 # Footer
 footer_show_references: false
