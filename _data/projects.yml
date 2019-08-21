@@ -8,7 +8,8 @@
     I run nixpkgs on my chromebook (within Crostini), as well as on all my servers/linux laptops.
     It is a declarative approach to defining package-sets and configuration for a system,
     whether that be a set of interacting applications or a full-blown operating-system.
-    I have started putting together a set of packages for running within Chromebook's Crostini environment.
+    
+    I am involved in the community, and support a few packages.
 
 - layout: top-middle
   name: Trow

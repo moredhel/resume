@@ -6,9 +6,16 @@
   quote: >
     Building Cloud Native Confidence
   description: |
-    I’m a lead cloud native engineer. Normally this means managing a team of engineers with a focus on cloud-technologies. I work technically, and interface continuously with the customer to ensure we are building the solution they need. When I’m not doing that I’m running trainings in Kubernetes & Docker, working on Pre-Sales or carrying out internal projects to improve openness and satisfaction within the company.
-    I spend my time designing and implementing the following:
-    - Kubernetes, Prometheus, Cloud-Native, CICD (Gitlab CI, Jenkins)
+    I’m a lead cloud native engineer. Normally this means managing a team of engineers with a focus on cloud-technologies.
+    I work technically, and interface continuously with the customer to ensure we are building the solution they need.
+    When I’m not doing that I’m running trainings in Kubernetes & Docker,
+    working on Pre-Sales or carrying out internal projects to improve openness and satisfaction within the company.  
+
+    Projects I have worked on include
+
+    - Building a tool to inspect the Kubernetes cluster and construct enriched data for consumption by other services
+    - Build out an enterprise-scale CICD and PaaS offering including Jenkins, SonarQube and Open Policy Agent in Google Cloud
+    - Advise and implement a number of PoC's for companies interested in exploring Kubernetes and Cloud Native.
 
 - layout: left
   company: Freelance
@@ -16,8 +23,9 @@
   job_title: Software Engineer
   dates: May 2015 - May 2016
   description: |
-    During this period I worked on building a JavaScript library to support Fluid Engineers in building an improved UX for running complicated calculations. This was a longer project involving diving into C# to help build an API as well as Fortran to standardise data IO to be machine-readable.
-    The library took considerable planning and engineering time to fully encapsulate the complexities and flexibility required for a generic interface over engineering formulas.
+    During this period I worked on building a JavaScript library to support Fluid-Dynamics Engineers in building an improved UX for running complex calculations.
+    This was a longer project involving diving into C# to help build an API as well as Fortran to standardise data IO to be machine-readable.
+    The library took considerable planning and engineering time to fully encapsulate the complexities and flexibility required for a generic interface over the formulas.
 
 - layout: left
   company: FreeAgent
@@ -26,5 +34,6 @@
   dates: May 2015 - September 2015 &  May 2016 - September 2016
   description: |
     During my first experience I was heavily involved in migrating a 500k LOC rails project from rails3 to rails4.
-    As a Data Engineer I was involved in building a machine-learning model, as well as architecting the ML supporting architecture.
-    Additionally I introduced and supported the rollout of Docker within the company. This process involved building and packaging multiple different processes, providing support for Docker-specific issues as well as providing (informal) training to colleagues as I onboarded them.
+    As a Data Engineer I was involved in building a machine-learning model, as well as architecting the supporting architecture.
+    Additionally I introduced and supported the rollout of Docker within the company. This process involved building and packaging multiple different processes (within Docker),
+    providing support for Docker-specific issues as well as providing training to colleagues as I onboarded them.
