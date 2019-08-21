@@ -7,9 +7,11 @@
     Building Cloud Native Confidence
   description: |
     I’m a lead cloud native engineer. Normally this means managing a team of engineers with a focus on cloud-technologies. I work technically, and interface continuously with the customer to ensure we are building the solution they need. When I’m not doing that I’m running trainings in Kubernetes & Docker, working on Pre-Sales or carrying out internal projects to improve openness and satisfaction within the company.
+  I spend my time designing and implementing the following:
+    - Kubernetes, Prometheus, Cloud-Native, CICD (Gitlab CI, Jenkins)
 
 - layout: left
-  company: FreeLance
+  company: Freelance
   link: #
   job_title: Software Engineer
   dates: May 2015 - May 2016
