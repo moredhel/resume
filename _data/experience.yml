@@ -1,4 +1,23 @@
 - layout: left
+  company: GrandVision
+  link: grandvision.com
+  job_title: DevOps Engineer
+  dates: October 2019 - Present
+  quote: >
+    Automated infrastructure & Dev support
+  description: |
+    I focus on building out and automating the infrastructure for multiple services across 5 different geographical regions.
+    This ranges from infrastructure automation using Terraform to providing feedback and guidance on technical decisions for the architecture of running systems.
+
+    We work as a close team, following GitOps principles & maintaining a complex set of dependent services across multiple environments.
+
+    I work on the following technologies on a daily basis:
+      - Terraform
+      - CICD
+      - Python
+      - TypeScript
+
+- layout: left
   company: Container Solutions
   link: container-solutions.com
   job_title: Lead Cloud Native Engineer
