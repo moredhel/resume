@@ -24,9 +24,9 @@ linkedin_username: hamish-hutchings-77466149
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-With a focus on Infrastructure automation, I also enjoy backend development. From CICD and programmable Infrastructure to microservices and Containerisation.
+    With a focus on Infrastructure automation, I also enjoy backend development. From CICD and programmable Infrastructure to microservices and Containerisation.
 
-I live and breathe the cloud and want to help more people transition into today’s cloud-native ecosystem
+    I live and breathe the cloud and want to help more people transition into today’s cloud-native ecosystem
 
 # Projects Section
 # projects_title: Projects
