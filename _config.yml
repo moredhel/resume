@@ -24,9 +24,9 @@ linkedin_username: hamish-hutchings-77466149
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a lead cloud native engineer. Normally this means leading a team of engineers with a focus on cloud-technologies, I work both technically as well as interacting with the customer and ensuring we are building a solution that they need. When I'm not doing that I'm working on Pre-Sales, running trainings or working on internal projects to improve openness and satisfaction within the company.
+With a focus on Infrastructure automation, I also enjoy backend development. From CICD and programmable Infrastructure to microservices and Containerisation.
 
-  I am most skilled in: <mark>Kubernetes & Docker</mark>, <mark>Python</mark> & <mark>Technical to non-Technical translation</mark>
+I live and breathe the cloud and want to help more people transition into today’s cloud-native ecosystem
 
 # Projects Section
 # projects_title: Projects
