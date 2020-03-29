@@ -6,10 +6,20 @@
   quote: >
     Automated infrastructure & Dev support
   description: |
-    I focus on building out and automating the infrastructure for multiple services across 5 different geographical regions.
-    This ranges from infrastructure automation using Terraform to providing feedback and guidance on technical decisions for the architecture of running systems.
+    I focus on building out and automating the infrastructure for
+    multiple services across 5 different geographical regions.  This
+    ranges from infrastructure automation using Terraform to providing
+    feedback and guidance on technical decisions for the architecture
+    of running systems.
 
-    We work as a close team, following GitOps principles & maintaining a complex set of dependent services across multiple environments.
+    We work as a close team, following GitOps principles & maintaining
+    a complex set of dependent services across multiple environments.
+
+    I work closely with the developers, directly contributing to the
+    services themselves when the need arises. I also worked with the
+    devs to enable them to take more control of their services
+    throught the lifecycle, from development all the way through to
+    production.
 
     I work on the following technologies on a daily basis:
       - Terraform
@@ -25,16 +35,22 @@
   quote: >
     Building Cloud Native Confidence
   description: |
-    I’m a lead cloud native engineer. Normally this means managing a team of engineers with a focus on cloud-technologies.
-    I work technically, both writing code and discussing the architectural direction with the client.
-    When I’m not doing that I’m running trainings in Kubernetes & Docker,
-    working on Pre-Sales or carrying out internal projects to improve openness and satisfaction within the company.  
+    I’m a lead cloud native engineer. Normally this means managing a
+    team of engineers with a focus on cloud-technologies.  I work
+    technically, both writing code and discussing the architectural
+    direction with the client.  When I’m not doing that I’m running
+    trainings in Kubernetes & Docker, working on Pre-Sales or carrying
+    out internal projects to improve openness and satisfaction within
+    the company.
 
     Projects I have worked on include
 
-    - Building a tool to inspect the Kubernetes cluster and construct enriched data for consumption by other services
-    - Build out an enterprise-scale CICD and PaaS offering including Jenkins, SonarQube and Open Policy Agent in Google Cloud
-    - Advise and implement a number of PoC's for companies interested in exploring Kubernetes and Cloud Native.
+    - Building a tool to inspect the Kubernetes cluster and construct
+      enriched data for consumption by other services
+    - Build out an enterprise-scale CICD and PaaS offering including
+      Jenkins, SonarQube and Open Policy Agent in Google Cloud
+    - Advise and implement a number of PoC's for companies interested
+      in exploring Kubernetes and Cloud Native.
 
 - layout: left
   company: Freelance
@@ -42,9 +58,14 @@
   job_title: Software Engineer
   dates: May 2015 - May 2016
   description: |
-    During this period I worked on building a JavaScript library to support Fluid-Dynamics Engineers in building an improved UX for running complex calculations.
-    This was a longer project involving diving into C# to help build an API as well as Fortran to standardise data IO to be machine-readable.
-    The library took considerable planning and engineering time to fully encapsulate the complexities and flexibility required for a generic interface over the formulas.
+    During this period I worked on building a JavaScript library to
+    support Fluid-Dynamics Engineers in building an improved UX for
+    running complex calculations.  This was a longer project involving
+    diving into C# to help build an API as well as Fortran to
+    standardise data IO to be machine-readable.  The library took
+    considerable planning and engineering time to fully encapsulate
+    the complexities and flexibility required for a generic interface
+    over the formulas.
 
 - layout: left
   company: FreeAgent
@@ -52,7 +73,12 @@
   job_title: Data Engineer & Software Engineer (Intern)
   dates: May 2015 - September 2015 &  May 2016 - September 2016
   description: |
-    During my first experience I was heavily involved in migrating a 500k LOC rails project from rails3 to rails4.
-    As a Data Engineer I was involved in building a machine-learning model, as well as architecting the supporting architecture.
-    Additionally I introduced and supported the rollout of Docker within the company. This process involved building and packaging multiple different processes (within Docker),
-    providing support for Docker-specific issues as well as providing training to colleagues as I onboarded them.
+    During my first experience I was heavily involved in migrating a
+    500k LOC rails project from rails3 to rails4.  As a Data Engineer
+    I was involved in building a machine-learning model, as well as
+    architecting the supporting architecture.  Additionally I
+    introduced and supported the rollout of Docker within the
+    company. This process involved building and packaging multiple
+    different processes (within Docker), providing support for
+    Docker-specific issues as well as providing training to colleagues
+    as I onboarded them.
