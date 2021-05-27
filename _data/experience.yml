@@ -2,7 +2,26 @@
   company: GrandVision
   link: grandvision.com
   job_title: DevOps Engineer
-  dates: October 2019 - Present
+  dates: August 2020 - Present
+  quote: >
+    Automated infrastructure & Dev support
+  description: |
+    I'm part of a small & focused team working on rolling out infrastructure &
+    processes to support in-shop technology. My role is to build, design &
+    architect a scalable solution designed to scale to multiple countries in
+    different regulatory environments.
+
+    I work with the following technologies on a regular basis:
+      - Azure Cloud
+      - Terraform
+      - Python
+      - CICD
+
+- layout: left
+  company: GrandVision
+  link: grandvision.com
+  job_title: DevOps Engineer
+  dates: October 2019 - April 2020
   quote: >
     Automated infrastructure & Dev support
   description: |
