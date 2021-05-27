@@ -10,7 +10,7 @@ website: https://drybrough.nl
 
 # Social links
 twitter_username: hamhut1066
-github_username:  moredhel
+github_username: moredhel
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -24,9 +24,9 @@ linkedin_username: hamish-hutchings-77466149
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    With a focus on Infrastructure automation, I also enjoy backend development. From CICD and programmable Infrastructure to microservices and Containerisation.
+  With a focus on Infrastructure automation, I also enjoy backend development. From CICD and programmable Infrastructure to microservices and Containerisation.
 
-    I live and breathe the cloud and want to help more people transition into today’s cloud-native ecosystem
+  I live and breathe the cloud and want to help more people transition into today’s cloud-native ecosystem
 
 # Projects Section
 # projects_title: Projects
@@ -49,11 +49,11 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/resume-theme@ffd34bdb531350406bfc274ea8ae2e5cbf582624
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
