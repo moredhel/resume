@@ -1,4 +1,25 @@
 - layout: left
+  company: Fika.Works Collective
+  link: fika.works
+  job_title: Member
+  dates: May 2020 - Present
+  quote: >
+    Cloud Native Consultancy Cooperative
+  description: |
+    In May 2020 a few friends & I founded a Cooperative with the goal of
+    providing Cloud Native Consultancy. We wanted to create a supportive &
+    inclusive, engineering-driven company with a focus on long-term stability &
+    a healthy professional social environment.
+
+    We had all been independent consultants for a few years by that point & felt
+    that there are things that by being your own entity definitely one loses out
+    on. Specifically, the community aspect of a company environment can
+    definitely mean quiet days.
+
+    The Cooperative is growing steadily, starting at 4 founding members we are
+    now up to 12 in 18 months, with a wider community having grown up around us.
+
+- layout: left
   company: GrandVision
   link: grandvision.com
   job_title: Lead DevOps Engineer
