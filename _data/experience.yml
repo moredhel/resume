@@ -1,7 +1,7 @@
 - layout: left
   company: GrandVision
   link: grandvision.com
-  job_title: DevOps Engineer
+  job_title: Lead DevOps Engineer
   dates: August 2020 - Present
   quote: >
     Automated infrastructure & Dev support
@@ -10,6 +10,11 @@
     processes to support in-shop technology. My role is to build, design &
     architect a scalable solution designed to scale to multiple countries in
     different regulatory environments.
+
+    We are responsible for building & designing a fully operational &
+    multi-tenant capable solution. My responsibilities include supporting
+    consumers of our infrastructure, managing key stakeholders & of course
+    actually building out the project.
 
     I work with the following technologies on a regular basis:
       - Azure Cloud
